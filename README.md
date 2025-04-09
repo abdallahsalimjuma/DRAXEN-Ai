@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=SHEIKH-ALI-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FFC900&center=true&width=1000&height=200&lines=DRAXEN-Ai" alt="Typing SVG" /></a>
   </p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -6,16 +6,16 @@
 
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=sʜᴇɪɪᴋʜ+ᴀʟɪ+ᴡʜᴀᴛsᴀᴘᴘ+ʙᴏᴛ+ᴅᴇᴠᴇʟᴏᴘᴇʀ" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&center=true&vCenter=true&multiline=false&lines=DRAXEN+Ai+WHATSAPP+BOT+DEVELOPER" alt="">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20SHEIKH%20ALI%20AHMAD%20KING%20OF%20KINGS%20OWNER%20ALI%20AHMAD%20AHMAD♥️&image=https://i.ibb.co/yc3j9Qdw/8490.jpg?v=4&backgroundColor=%23ecf0f1&github=SHEIKH-ALI-2402&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DRAXEN%20%20A%20%20OF%20%20OWNER%20DRAXEN%20Ai%20♥️&image=https://i.ibb.co/yc3j9Qdw/8490.jpg?v=4&backgroundColor=%23ecf0f1&github=DRAXEN-Ai-2402&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐀𝐋𝐈+𝐀𝐇𝐌𝐀𝐃+𝐅𝐀𝐑𝐎𝐎𝐐...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+DRAXEN-Ai...;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+DRAXEN+𝐅𝐀𝐑𝐎𝐎𝐐...;𝐖𝐎𝐑𝐋𝐃+𝐁𝐄𝐒𝐓+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐉𝐀𝐕𝐀+𝐒𝐂𝐑𝐈𝐏𝐓+𝐁𝐎𝐓...;𝐒𝐈𝐌𝐏𝐋𝐄+𝐀𝐍𝐃+𝐅𝐀𝐒𝐓+𝐃𝐄𝐏𝐋𝐎𝐘...;𝐓𝐇𝐀𝐍𝐊𝐒+𝐘𝐎𝐔+𝐅𝐎𝐑+𝐔𝐒𝐈𝐍𝐆+DRAXEN+Ai..."
 
 <br>
 
@@ -23,9 +23,9 @@ src="https://cardivo.vercel.app/api?name=SHEIKH%20ALI%20MD&description=💫THE%2
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHEIKH-ALI-2402%2FSHEIKH-ALI-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/SHEIKH-ALI-2402?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/SHEIKH-ALI-2402label=Followers&style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/SHEIKH-ALI-2402/SHEIKH-ALI-MD?&style=social"></a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDRAXEN-2402%2FDRAXEN-Ai-&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+ <a href="https://github.com/abdallahsalimjuma?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/abdallahsalimjuma-2402label=Followers&style=social"></a>
+<a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/abdallahsalimjuma/DRAXEN-Ai?&style=social"></a>
 <a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHEIKH-ALI-2402/SHEIKH-ALI-MD?style=social"></a>
 <a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHEIKH-ALI-2402/SHEIKH-ALI-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
