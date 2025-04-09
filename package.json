@@ -1,12 +1,12 @@
 {
-  "name": "SHEIKH-ALI-MD",
+  "name": "DRAXEN-Ai",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Ali Ahmad",
+  "description": "A WhatsApp Bot Created By DRAXEN",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHEIKH-ALI-MD",
-    "stop": "pm2 stop SHEIKH-ALI-MD",
-    "restart": "pm2 restart SHEIKH-ALI-MD"
+    "stop": "pm2 stop DRAXEN-Ai",
+    "restart": "pm2 restart DRAXEN-Ai"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.16",
