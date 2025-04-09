@@ -1,8 +1,8 @@
 {
-  "name": "SHEIKH-ALI-MD",
-  "description": "Javascript WhatsApp bot made by 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶",
-  "logo": "https://i.ibb.co/yc3j9Qdw/8490.jpg",
-  "keywords": ["SHEIKH-ALI-MD"],
+  "name": "DRAXEN-Ai",
+  "description": "Javascript WhatsApp bot made by DRAXEN•••²⁴⁰⁶",
+  "logo": "https://files.catbox.moe/c855r3.jpg",
+  "keywords": ["DRAXEN-Ai"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHEIKH-ALI-MD"
+      "value": "DRAXEN-Ai"
     }, 
       
     "PREFIX": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*ʏᴏᴜʀ sᴛᴀᴛᴜs sᴇᴇɴ ᴊᴜsᴛ ɴᴏᴡ ʙʏ ♥️🌸⃝𝐂𝐮𝐭𝐞 𝐬𝐡𝐞𝐢𝐤𝐡ᥫ᭡👑*"
+      "value": "*ʏᴏᴜʀ sᴛᴀᴛᴜs sᴇᴇɴ ᴊᴜsᴛ ɴᴏᴡ ʙʏ ♥️🌸⃝DRAXEN-Aiᥫ᭡👑*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡"
+      "value": "DRAXEN-Ai🤎*"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923143702270"
+      "value": "255716945971"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHEIKH-ALI-MD"
+      "value": "DRAXEN-Ai"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*"
+      "value": "*© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai🤎*"
     },
 
       "DELETE_LINKS": {
