@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By DRAXEN",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHEIKH-ALI-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name DRAXEN-Ai",
     "stop": "pm2 stop DRAXEN-Ai",
     "restart": "pm2 restart DRAXEN-Ai"
   },
