@@ -53,15 +53,15 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/chcyQbkP/Snapchat-850352165.jpg` }, // Image URL here
+                image: { url: `https://files.catbox.moe/tmmvub.jpg` }, // Image URL here
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363333032882285@newsletter',
-                        newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡',
+                        newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
+                        newsletterName: 'THE GENERATION Z',
                         serverMessageId: 143
                     }
                 }
