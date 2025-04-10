@@ -33,7 +33,7 @@ DRAXEN Ai
   <a href="https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh"><img src="https://img.shields.io/badge/WhatsApp Public Group-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://youtube.com/@abdallahsalim-f5u?si=0pgpUmeHwNOXlLs-"><img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh"><img src="https://img.shields.io/badge/Follow WhatsApp Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://wa.me/message/255756715126"><img src="https://img.shields.io/badge/WhatsApp Me Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/message/+255756715126"><img src="https://img.shields.io/badge/WhatsApp Me Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <p align="center">
