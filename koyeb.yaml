@@ -1,6 +1,6 @@
-name: khan-md
+name: draxen-ai
 services:
-  - name: khan-md-service
+  - name: draxen-ai-service
     type: web
     ports:
       - 5000
