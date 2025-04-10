@@ -10,7 +10,7 @@ DRAXEN Ai
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+DRAXEN-Ai;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DRAXEN;PUBLIC+RELEASED+DATE;01/09/2024" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+DRAXEN-Ai;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DRAXEN;PUBLIC+RELEASED+DATE;10/04/2025" alt="Typing SVG" />
   </a>
 </div>DRAXEN Ai
 <p align="center">
