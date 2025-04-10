@@ -346,4 +346,4 @@ async (conn, mek, m, { from, reply }) => {
     }
 });
 
-// > 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡ 
+// > DRAXEN Ai 🤎
