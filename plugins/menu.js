@@ -19,7 +19,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 > *ɴᴀᴍᴇ ʙᴏᴛ* : *DRAXEN Ai*
 > *ᴄʀᴇᴀᴛᴏʀ* : *DRAXEN*
-> *ᴠᴇʀsɪᴏɴ* : *ᴠ.2.0*
+> *ᴠᴇʀsɪᴏɴ* : *ᴠ.5.0*
 *❖╰────────────···▸▸*
 *♡︎•━━━━━━☻︎━━━━━━•♡︎*
 *╭╼╼╼╼╼╼╼╼╼╼*
