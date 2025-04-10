@@ -39,19 +39,19 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡`;
+© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://i.ibb.co/chcyQbkP/Snapchat-850352165.jpg` },  // Image URL
+            image: { url: `https://files.catbox.moe/tmmvub.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363333032882285@newsletter',
-                    newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡',
+                    newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
+                    newsletterName: 'thegenerationZ 🤎',
                     serverMessageId: 143
                 }
             }
