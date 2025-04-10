@@ -12,7 +12,7 @@
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=DRAXEN-Ai%20%20&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DRAXEN%20%20%20%20%20KINGS%20OWNER%20DRAXEN%20A
+src="https://cardivo.vercel.app/api?name=DRAXEN-Ai%20%20&description=💫THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DRAXEN%20%20%20%20%20%20OWNER%20DRAXEN%20A
 %20♥️&image=https://i.ibb.co/yc3j9Qdw/8490.jpg?v=4&backgroundColor=%23ecf0f1&github=abdallahsalimjuma&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <hr>
