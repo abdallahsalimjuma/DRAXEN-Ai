@@ -53,12 +53,12 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD';
+    const githubRepo = 'https://github.com/abdallahsalimjuma/DRAXEN-Ai';
 
     // Check update status
-    let updateMessage = `✅ Your SHEIKH-ALI-MD bot is up-to-date!`;
+    let updateMessage = `✅ Your DRAXEN-Ai bot is up-to-date!`;
     if (localVersion !== latestVersion) {
-      updateMessage = `🚀 Your SHEIKH-ALI-MD bot is outdated!
+      updateMessage = `🚀 Your DRAXEN-Ai bot is outdated!
 🔹 *Current Version:* ${localVersion}
 🔹 *Latest Version:* ${latestVersion}
 
@@ -66,22 +66,22 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* SHEIKH-ALI-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* DRAXEN-Ai\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰⁶](https://github.com/Sheikh-ali-2412)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [DRAXEN•••²⁴⁰⁶](https://github.com/abdallahsalimjuma)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://i.ibb.co/chcyQbkP/Snapchat-850352165.jpg' },
+      image: { url: 'https://files.catbox.moe/tmmvub.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363333032882285@newsletter',
-          newsletterName: '𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡',
+          newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
+          newsletterName: 'DRAXEN 🤎',
           serverMessageId: 143
         }
       }
