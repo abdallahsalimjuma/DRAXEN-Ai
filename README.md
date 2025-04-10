@@ -30,19 +30,19 @@ src="https://cardivo.vercel.app/api?name=DRAXEN-Ai%20%20&description=💫THE%20W
 <a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/network/members"><img title="Forks" src="https://img.shields.io/github/forks/abdallahsalimjuma/DRAXEN+Ai?style=social"></a>
 <a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHEIKH-ALI-2402/SHEIKH-ALI-MD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SHEIKH-ALI-2402/SHEIKH-ALI-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/abdallahsalimjuma-2402/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=ALI%20AHMAD%20FAROOQ&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=DRAXEN%20%20&color=pink&style=plastic" alt="Developer Badge">
 </p>
 <p align='center'>
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SHEIKH-ALI-MD/count.svg" /><br>SHEIKH-ALI-MD</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/DRAXEN-Ai/count.svg" /><br>DRAXEN-Ai</div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/fork)
+[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
 
 ---------------- 
 
