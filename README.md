@@ -56,20 +56,4 @@ DRAXEN Ai
 
 ### 🚀 3. Deploy to Heroku
 
-1. If you don't have a Heroku account, create one.
-    <br>
-    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/Create Account-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-2. Deploy the bot.
-    <br>
-    <a href='https://heroku.com/deploy' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/Deploy To Heroku-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-### ☁️ 4. Deploy to Koyeb
-
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FDRAXEN-Ai%2FDRAXEN-Ai&branch=main&name=malik-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
-
-<p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/abdallahsalimjuma/DRAXEN-Ai">
-    <img src="https://img.shields.io/badge/Deploy%20to-Render-blue?style=for-the-badge&logo=render&logoColor=white" alt="Deploy to Render">
-  </a>
-</p>
----
