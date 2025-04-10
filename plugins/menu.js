@@ -17,7 +17,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 *❖╭─────────────···▸*
 > *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 > *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-> *ɴᴀᴍᴇ ʙᴏᴛ* : *𝐒𝐇𝐄𝐈𝐊𝐇 𝐀𝐋𝐈 𝐌𝐃*
+> *ɴᴀᴍᴇ ʙᴏᴛ* : *DRAXEN*
 > *ᴄʀᴇᴀᴛᴏʀ* : *DRAXEN Ai*
 > *ᴠᴇʀsɪᴏɴ* : *ᴠ.2.0*
 *❖╰────────────···▸▸*
