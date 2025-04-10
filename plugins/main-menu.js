@@ -324,7 +324,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
+                        newsletterJid: '0029Vb4vbKF6xCSMEFopxc10',
                         newsletterName: 'Dullah Xmd',
                         serverMessageId: 143
                     }
