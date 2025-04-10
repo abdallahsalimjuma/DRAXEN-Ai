@@ -41,13 +41,13 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-[![FORK SHEIKH-ALI-MD](https://img.shields.io/badge/FORK%20-SHEIKH%20ALI%20MD-FF00F8)](https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/fork)
+[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN-%20Ai%20-FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
 
 ---------------- 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐂𝐎𝐍𝐓𝐀𝐂𝐓+𝐌𝐄+𝐅𝐎𝐑+𝐇𝐄𝐋𝐏)](https://git.io/typing-svg)
 
-[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+923143702270?text=*ʜɪɪ+𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
+[![https://telegram.me/Sheikh_ali_ahmad_24](https://img.shields.io/badge/ᴡʜᴀᴛsᴀᴘᴘ-ᴄᴏɴᴛᴀᴄᴛ-green.svg?style=flat-square)](https://wa.me/+255716945971?text=*ʜɪɪ+𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯+𝑨𝑳𝑰+🔥༽༼--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴇɪᴋʜ-ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*)
 
 ----------------
 
