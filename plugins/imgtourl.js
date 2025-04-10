@@ -47,14 +47,14 @@ cmd({
       forwardingScore: 999,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterJid: "120363333032882285@newsletter",
-        newsletterName: "𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡",
+        newsletterJid: "IdRXU9UcO8K50GPelOyhxh@newsletter",
+        newsletterName: "Dullahxmd",
         serverMessageId: 143
       }
     };
 
     await conn.sendMessage(from, {
-      text: `✅ *Image Uploaded Successfully 📸*\n📏 *Size:* ${imageBuffer.length} Bytes\n🔗 *URL:* ${imageUrl}\n\n> ⚖️ *Uploaded via SHEIKH-ALI-MD*`,
+      text: `✅ *Image Uploaded Successfully 📸*\n📏 *Size:* ${imageBuffer.length} Bytes\n🔗 *URL:* ${imageUrl}\n\n> ⚖️ *Uploaded via DRAXEN-Ai*`,
       contextInfo: msgContext
     });
 
