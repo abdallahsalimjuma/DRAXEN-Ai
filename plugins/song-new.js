@@ -22,7 +22,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
 
         let yts = yt.results[0];
 
-        let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+        let ytmsg = `╭━━━〔 *DRAXEN-Ai* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *VIDEO DOWNLOADER*
 ┃▸└───────────···๏
@@ -46,7 +46,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply, waitForReply }) => {
         await conn.sendMessage(from, {
             video: { url: ytdl.download.url },
             mimetype: "video/mp4",
-            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
+            caption: `> *${yts.title}*\n> *Quality: ${quality}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*`
         }, { quoted: mek });
     } catch (e) {
         console.log(e);
@@ -76,7 +76,7 @@ if(yt.results.length < 1) return reply("Results is not found !")
 let yts = yt.results[0]  
 const ytdl = await ytmp3(yts.url)
 		
-let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+let ytmsg = `╭━━━〔 *DRAXEN-Ai* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ┃▸└───────────···๏
@@ -88,7 +88,7 @@ let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*`
 // SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
 
@@ -96,7 +96,7 @@ await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' },
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
 
 // SEND DOC TYPE
-await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*` }, { quoted: mek })
+await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*` }, { quoted: mek })
 
 
 } catch (e) {
