@@ -29,7 +29,7 @@ cmd({
             return reply("Failed to fetch the video. Please try again later.");
         }
         
-        let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+        let ytmsg = `╭━━━〔 *DRAXEN-Ai* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *VIDEO DOWNLOADER*
 ┃▸└───────────···๏
@@ -53,7 +53,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `> *${yts.title}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
+            caption: `> *${yts.title}*\n> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*`
         }, { quoted: mek });
 
     } catch (e) {
@@ -89,7 +89,7 @@ const yt = await ytsearch(q);
         return reply("Failed to fetch the audio. Please try again later.");
     }
     
-    let ytmsg = `╭━━━〔 *SHEIKH-ALI-MD* 〕━━━┈⊷
+    let ytmsg = `╭━━━〔 *DRAXEN-Ai* 〕━━━┈⊷
 ┃▸╭───────────
 ┃▸┃๏ *MUSIC DOWNLOADER*
 ┃▸└───────────···๏
@@ -101,7 +101,7 @@ const yt = await ytsearch(q);
 ┇๏ *Author* -  ${yts.author.name} 
 ┇๏ *Link* -  ${yts.url}
 ╰━━❑━⪼
-> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`;
+> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*`;
 
 
 
@@ -116,7 +116,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡*`
+        caption: `> *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*`
     }, { quoted: mek });
 
 } catch (e) {
