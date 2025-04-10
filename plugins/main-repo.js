@@ -31,14 +31,14 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/c855r3.jpg` },
+            image: { url: `https://files.catbox.moe/tmmvub.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
+                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh@newsletter',
                     newsletterName: 'DullahXmd',
                     serverMessageId: 143
                 }
@@ -55,7 +55,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
+                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh@newsletter',
                     newsletterName: 'DullahXmd',
                     serverMessageId: 143
                 }
