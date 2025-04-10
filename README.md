@@ -1,4 +1,7 @@
-# MALIK-MD
+<p align="center">
+ᴅᴜʟʟᴀʜ-xᴍᴅ v²
+</p>
+
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
