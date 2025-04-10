@@ -208,8 +208,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363333032882285@newsletter",
-            newsletterName: "𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃",
+            newsletterJid: "IdRXU9UcO8K50GPelOyhxh@newsletter",
+            newsletterName: "DRAXEN-Ai",
             serverMessageId: 143,
           },
         },
