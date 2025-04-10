@@ -1,39 +1,39 @@
 <p align="center">
-ᴅᴜʟʟᴀʜ-xᴍᴅ v²
+DRAXEN Ai
 </p>
 
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="MALIK-MD" height="300" src="https://files.catbox.moe/b170la.jpg">
+    <img alt="DRAXEN-Ai" height="300" src="https://files.catbox.moe/tmmvub.jpg">
   </a>
 </p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+MALIK-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+MALIK+SAHAB;PUBLIC+RELEASED+DATE;01/09/2024" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=910&height=100&lines=THIS+IS+DRAXEN-Ai;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+DRAXEN;PUBLIC+RELEASED+DATE;01/09/2024" alt="Typing SVG" />
   </a>
-</div>MALIK-MD
+</div>DRAXEN Ai
 <p align="center">
-  <a href="https://github.com/arkhan998/MALIK-MD"><img title="Author" src="https://img.shields.io/badge/MALIK-MD-black?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai"><img title="Author" src="https://img.shields.io/badge/DRAXEN-Ai-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
-<p align="center">✨ `Introducing MALIK-MD, a powerful and exciting bot designed to enhance your WhatsApp experience`. ✨</p>
+<p align="center">✨ `Introducing DRAXEN-Ai, a powerful and exciting bot designed to enhance your WhatsApp experience`. ✨</p>
 
 <p align="center">
-  <a aria-label="MALIK-MD is free to use" href="https://youtube.com/@technicalmalikoffical?si=4HFB2LmJ08DChVCj" target="_blank">
+  <a aria-label="DRAXEN-Ai is free to use" href="https://youtube.com/@abdallahsalim-f5u?si=0pgpUmeHwNOXlLs-" target="_blank">
     <img alt="1K Subscribers" src="https://img.shields.io/badge/1K%20Subscribers-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
   </a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{MALIK-MD}/count.svg" alt="MALIK-MD Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{DRAXEN-Ai}/count.svg" alt="DRAXEN-Ai Visitor's Count" /></p>
 
 <p align="center">
-  <a href="https://chat.whatsapp.com/LO2TNmBHfiy8WIiwR6ACnc"><img src="https://img.shields.io/badge/WhatsApp Public Group-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://youtube.com/@technicalmalikoffical?si=4HFB2LmJ08DChVCj"><img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P"><img src="https://img.shields.io/badge/Follow WhatsApp Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://wa.me/message/SXENY2UB35T2G1"><img src="https://img.shields.io/badge/WhatsApp Me Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh"><img src="https://img.shields.io/badge/WhatsApp Public Group-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://youtube.com/@abdallahsalim-f5u?si=0pgpUmeHwNOXlLs-"><img src="https://img.shields.io/badge/Subscribe on YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh"><img src="https://img.shields.io/badge/Follow WhatsApp Channel-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://wa.me/message/255716945971"><img src="https://img.shields.io/badge/WhatsApp Me Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <p align="center">
