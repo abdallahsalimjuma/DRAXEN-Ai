@@ -324,7 +324,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: 'https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh',
+                        newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
                         newsletterName: 'Dullah Xmd',
                         serverMessageId: 143
                     }
@@ -335,7 +335,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+            audio: { url: 'https://files.catbox.moe/c5wfno.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
