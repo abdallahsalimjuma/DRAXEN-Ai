@@ -3,7 +3,7 @@ const { sleep } = require("../lib/functions");
 
 cmd({
     pattern: "restart",
-    desc: "Restart the bot SHEIKH-ALI-MD",
+    desc: "Restart the bot DRAXEN-Ai 🤎🦠",
     category: "owner",
     filename: __filename
 },
