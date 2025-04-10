@@ -33,7 +33,7 @@ OWNER_NAME: process.env.OWNER_NAME || "DRAXEN Ai 🤎",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai 🤎*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/yc3j9Qdw/8490.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tmmvub.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *DRAXEN-Ai*⚡",
 // add alive msg here 
