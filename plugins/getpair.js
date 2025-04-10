@@ -5,12 +5,12 @@ const { cmd } = require("../command");
 // get pair 2
 
 cmd({
-    pattern: "pair",
+    pattern: "rent",
     alias: ["getpair", "clonebot"],
     react: "✅",
     desc: "Pairing code",
     category: "download",
-    use: ".pair ++923143702XXX",
+    use: ".pair ++25571694XXX",
     filename: __filename
 }, 
 async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
@@ -20,7 +20,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Validate input
         if (!q) {
-            return await reply("*Example -* .pair +923143702XXX");
+            return await reply("*Example -* .pair +2557169459XXX");
         }
 
         // Fetch pairing code
@@ -35,7 +35,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Success response
         const pairingCode = pair.code;
-        const doneMessage = "> *SHEIKH-ALI-MD PAIR COMPLETED*";
+        const doneMessage = "> *DRAXEN-Ai COMPLETED*";
 
         // Send first message
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
