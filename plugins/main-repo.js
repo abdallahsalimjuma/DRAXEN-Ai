@@ -38,8 +38,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh',
-                    newsletterName: 'Dullah Xmd',
+                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
+                    newsletterName: 'DullahXmd',
                     serverMessageId: 143
                 }
             }
@@ -47,16 +47,16 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
-            mimetype: 'audio/mp4',
+            audio: { url: 'https://files.catbox.moe/c5wfno.mp3' },
+            mimetype: 'audio/mp3',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh',
-                    newsletterName: 'Dullah Xmd',
+                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh',
+                    newsletterName: 'DullahXmd',
                     serverMessageId: 143
                 }
             }
