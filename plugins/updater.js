@@ -12,7 +12,7 @@ cmd({
     filename: __filename
 }, async (conn, mek, m, { from, reply }) => {
     try {
-        const repoUrl = 'https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD.git'; 
+        const repoUrl = 'https://github.com/abdallahsalimjuma/DRAXEN-Ai.git'; 
         const targetFolder = 'plugins';
 
         
