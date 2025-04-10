@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 > *© Pᴏᴡᴇʀᴇᴅ Bʏ DRAXEN-Ai*`;
 
-        const vv = await conn.sendMessage(from, { image: { url: "https://files.catbox.moe/c855r3.jpg"}, caption: desc }, { quoted: mek });
+        const vv = await conn.sendMessage(from, { image: { url: "https://files.catbox.moe/tmmvub.jpg"}, caption: desc }, { quoted: mek });
 
         conn.ev.on('messages.upsert', async (msgUpdate) => {
             const msg = msgUpdate.messages[0];
