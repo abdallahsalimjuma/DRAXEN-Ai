@@ -13,12 +13,12 @@ cmd({
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
         // Generate system status message
-        const status = `╭━━〔 *SHEIKH-ALI-MD* 〕━━┈⊷
+        const status = `╭━━〔 *DRAXEN-Ai* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *⏳Uptime*:  ${runtime(process.uptime())} 
 ┃◈┃• *📟 Ram usage*: ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${(os.totalmem() / 1024 / 1024).toFixed(2)}MB
 ┃◈┃• *⚙️ HostName*: ${os.hostname()}
-┃◈┃• *👨‍💻 Owner*: DRAXEN Ai ♡
+┃◈┃• *👨‍💻 Owner*: DRAXEN 🤎
 ┃◈┃• *🧬 Version*: 2.0.0 BETA
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -33,8 +33,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'https://chat.whatsapp.com/IdRXU9UcO8K50GPelOyhxh',
-                    newsletterName: 'DRAXEN-Ai 🤎',
+                    newsletterJid: 'https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10',
+                    newsletterName: 'thegenerationZ 🤎',
                     serverMessageId: 143
                 }
             }
