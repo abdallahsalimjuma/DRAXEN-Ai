@@ -41,7 +41,7 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
-[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN-Ai%20%20-FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
+[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN-Ai%20-%20-FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
 
 ---------------- 
 
