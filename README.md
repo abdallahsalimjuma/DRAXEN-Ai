@@ -52,6 +52,14 @@ DRAXEN Ai
 
 ### 🔑 2. Get Session ID via Pair Code
 
+
+<p align="left">
+<a href='https://sheikh-ali-pair-2-7c08b07b7cab.herokuapp.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+
+
 <p align="left">
 <a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FFC900?style=for-the-badge&logo=opencv&logoColor=black'/>
