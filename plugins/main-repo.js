@@ -48,7 +48,7 @@ async (conn, mek, m, { from, reply }) => {
         // Send the audio file with context info
         await conn.sendMessage(from, {
             audio: { url: 'https://files.catbox.moe/c5wfno.mp3' },
-            mimetype: 'audio/mp3',
+            mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
                 mentionedJid: [m.sender],
