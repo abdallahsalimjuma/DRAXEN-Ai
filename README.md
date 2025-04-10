@@ -26,12 +26,12 @@ src="https://cardivo.vercel.app/api?name=DRAXEN%20Ai%20&description=💫THE%20WO
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDRAXEN-2402%2FDRAXEN-Ai-&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/abdallahsalimjuma?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/abdallahsalimjuma-2402label=Followers&style=social"></a>
 <a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/abdallahsalimjuma/DRAXEN-Ai?&style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SHEIKH-ALI-2402/SHEIKH-ALI-MD?style=social"></a>
-<a href="https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/SHEIKH-ALI-2402/SHEIKH-ALI-MD?label=Watching&style=social"></a>
+<a href="https://github.com/abdallahsalimjuma/DRAXEN-AI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/abdallahsalimjuma/DRAXEN-Ai?style=social"></a>
+<a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/abdallahsalimjuma/DRAXEN-Ai?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/SHEIKH-ALI-2402/SHEIKH-ALI-MD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/abdallahsalimjuma/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=ALI%20AHMAD%20FAROOQ&color=pink&style=plastic" alt="Developer Badge">
+  <img src="https://img.shields.io/static/v1?label=OWNER&message=DRAXEN%20%20FAROOQ&color=pink&style=plastic" alt="Developer Badge">
 </p>
 <p align='center'>
 </p>
