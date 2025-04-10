@@ -251,17 +251,17 @@ async (conn, mek, m, { reply }) => {
         // Get current date and time
         const now = new Date();
         
-        // Get local time in Pakistan timezone (Asia/Karachi)
+        // Get local time in Tanzania timezone (Africa/Dar_es_Salaam)
         const localTime = now.toLocaleTimeString("en-US", { 
             hour: "2-digit", 
             minute: "2-digit", 
             second: "2-digit", 
             hour12: true,
-            timeZone: "Asia/Karachi" // Setting Pakistan's time zone explicitly
+            timeZone: "Africa/Dar_es_Salaam" // Setting Tanzania time zone explicitly
         });
         
         // Send the local time as reply
-        reply(`🕒 Current Local Time in Pakistan: ${localTime}`);
+        reply(`🕒 Current Local Time in Tanzania: ${localTime}`);
     } catch (e) {
         console.error("Error in .timenow command:", e);
         reply("❌ An error occurred. Please try again later.");
