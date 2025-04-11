@@ -5,7 +5,7 @@ DRAXEN Ai
 
 <p align="center">
   <a href="https://youtu.be/F3Cgi8ied1o">
-    <img alt="DRAXEN-Ai" height="300" src="https://files.catbox.moe/tmmvub.jpg">
+    <img alt="DRAXEN-Ai" height="300" src="https://files.catbox.moe/c855r3.jpg">
   </a>
 </p>
 <div align="center">
