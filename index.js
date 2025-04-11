@@ -67,7 +67,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("SHEIKH-ALI-MD~", '');
+const sessdata = config.SESSION_ID.replace("DRAXEN-Ai~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -112,7 +112,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `┏━━━━━━━━━━━━━━ \n┃𝐒𝐇𝐄𝐈𝐊𝐇-𝐀𝐋𝐈-𝐌𝐃\n┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒\n┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 \n┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥\n┗━━━━━━━━━━━━━━━ \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ 𝐀𝐋𝐈 𝐀𝐇𝐌𝐀𝐃•••²⁴⁰² ⚡𖥘\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴏᴡɴᴇʀ = https://wa.me/923143702270 \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vao1lnR1nozDF8jBNh3B\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/SHEIKH-ALI-2402/SHEIKH-ALI-MD \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@sheikh-ali-2412?si=jtHyERObmqci0YEo  \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓄂𝕚𝕥𝕩.𝑺𝑯𝑬𝑰𝑲𝑯 𝑨𝑳𝑰 🔥༽༼ ♡ `;
+  let up = `┏━━━━━━━━━━━━━━ \n┃DRAXEN-Ai\n┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒\n┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 \n┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥\n┗━━━━━━━━━━━━━━━ \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ DRAXEN•••²⁴⁰² ⚡𖥘\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴏᴡɴᴇʀ = https://wa.me/255716945971 \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/abdallahsalimjuma/DRAXEN-Ai \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n ★ || ʏᴏᴜᴛᴜʙᴇ = https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10 \n▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ DRAXEN 🤎 `;
     conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/chcyQbkP/Snapchat-850352165.jpg` }, caption: up })
   }
   })
