@@ -1,12 +1,7 @@
 
 
 
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-</p>
-  <p align="center">
-   <!-- Repo Views -->
+ -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdallahsalimjuma%2FDRAXEN-Ai&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/abdallahsalimjuma?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/abdallahsalimjumalabel=Followers&style=social"></a>
 <a href="https://github.com/abdallahsalimjuma/DRAXEN-Ai/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/abdallahsalimjuma/DRAXEN-Ai?&style=social"></a>
