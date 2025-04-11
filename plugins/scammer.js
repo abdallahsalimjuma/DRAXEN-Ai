@@ -14,7 +14,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         let dec = `╭━━━〔 *Scammers's Numbers* 〕━━━┈⊷
 ┃★╭─────────────·๏
 ┃★│ BC tatta 1☝️: https://api.whatsapp.com/send?phone=255716945971&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
-┃★│ BC tatta 2☝️: https://api.whatsapp.com/send?phone=255756715126&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
+┃★│ BC tatta 2☝️: https://api.whatsapp.com/send?phone=255716945971&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
 ┃★│ BC tatta 3☝️: https://api.whatsapp.com/send?phone=255677 608 682&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
 ┃★│ BC tatta 4☝️: https://api.whatsapp.com/send?phone=255766499447&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
 ┃★│ BC tatta 5☝️: https://api.whatsapp.com/send?phone=923304093758&text=Hi+Randi+Ki+Olad+UK+UMAIR+LOL☝️
