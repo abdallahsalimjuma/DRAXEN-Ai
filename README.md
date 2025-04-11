@@ -84,7 +84,7 @@ DRAXEN Ai
 </a>
 
 <p align="left">
-<a href='https://sheikh-ali-md-pair.onrender.com' target="_blank">
+<a href='https://pair-code-vjmm.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-FFC900?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
