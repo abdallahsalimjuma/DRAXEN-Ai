@@ -38,8 +38,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh@newsletter',
-                    newsletterName: 'DullahXmd',
+                    newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
+                    newsletterName: 'THE GENERATION Z',
                     serverMessageId: 143
                 }
             }
@@ -55,8 +55,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'IdRXU9UcO8K50GPelOyhxh@newsletter',
-                    newsletterName: 'DullahXmd',
+                    newsletterJid: '0029Vb4vbKF6xCSMEFopxc10@newsletter',
+                    newsletterName: 'THE GENERATOIN Z',
                     serverMessageId: 143
                 }
             }
