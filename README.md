@@ -45,10 +45,12 @@ DRAXEN Ai
   <a href="#"><img title="Maintained?" src="https://img.shields.io/badge/Maintained%3F-yes-32CD32?style=for-the-badge"></a>
 </p>
 
+
+## 🚀 Setup Guide
+
 ### 🛠 1. Fork This Repo
 
-
-[![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20-FF00F8)](https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork)
+<a href='https://github.com/abdallahsalimjuma/DRAXEN-Ai/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ---------------- 
 
