@@ -47,14 +47,7 @@ DRAXEN Ai
 
 
 
-</p>
-<p align='center'>
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<div align="center"><br> <img src="https://profile-counter.glitch.me/DRAXEN-Ai/count.svg" /><br>DRAXEN-Ai</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐅𝐎𝐑𝐊+𝐀𝐍𝐃+𝐒𝐓𝐀𝐑+𝐑𝐄𝐏𝐎)](https://git.io/typing-svg)
 
 [![FORK DRAXEN-Ai](https://img.shields.io/badge/FORK%20-DRAXEN%20Ai%20-FF00F8)](https://github.com/SHEIKH-ALI-2402/DRAXEN-Ai/fork)
 
