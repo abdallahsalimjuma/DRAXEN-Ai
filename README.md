@@ -5,9 +5,7 @@
  
 
 
-  <img src="https://img.shields.io/github/repo-size/abdallahsalimjuma/DRAXEN-Ai?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
-  <!-- Developer -->
-  <img src="https://img.shields.io/static/v1?label=OWNER&message=DRAXEN%20%20&color=pink&style=plastic" alt="Developer Badge">
+  Badge">
 </p>
 <p align='center'>
 </p>
